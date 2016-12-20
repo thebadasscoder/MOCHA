@@ -1,5 +1,8 @@
 # testing
 
-Learning MOCHA framework to test out code that I have created with my previous projects.
+ I am practicing test cases using the MOCHA framework to begin using in my previous and future projects. 
+ 
+ 
+ 
 
-Let's Get Started ! 
+
